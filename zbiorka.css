@@ -1,0 +1,46 @@
+body
+{
+	background-color: #79b6e6;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #000000;
+	margin: 20px;
+}
+
+.zawartosc
+{
+	text-align: center;
+}
+
+.zawartosc img
+{
+	width: 100%;
+	height: auto;
+}
+
+.zawartosc p
+{
+	margin-bottom: 30px;
+}
+
+.zawartosc figcaption
+{
+	margin-top: 8px;
+}
+table { 
+    border: 1px solid black; 
+	margin: auto;
+	margin-top: 20%;
+}
+.zdj{
+	width: 80%;
+	height: auto;
+}
+
