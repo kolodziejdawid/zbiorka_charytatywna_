@@ -1,0 +1,1 @@
+# zbiorka_charytatywna_
